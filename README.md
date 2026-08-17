@@ -8,7 +8,6 @@ A desktop stock screening & analysis application built with **Python** and **PyQ
 
 ## ar Screenshots
 
-*(add 2-3 of your best screenshots here — Screening tab, Options Overview, Biotech Analyzer work well)*
 
 ```
 ![Screening](screenshots/screening.png)
