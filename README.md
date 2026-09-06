@@ -2,13 +2,13 @@
 
 A desktop stock screening & analysis application built with **Python** and **PyQt6** — a "mini-Bloomberg terminal" combining fundamental screening, technical analysis, options pricing, portfolio optimization, and biotech-specific research tools in a single native Windows app.
 
-> **Note:** This is a commercial product. Source code and executable are not public — this repo showcases the project for portfolio purposes. Feel free to reach out if you'd like a live demo.
+> **Note:** This is a commercial product. Source code and executable are not public — this repo showcases the project for portfolio purposes. 
 
 ---
 
 ## 🖼️ Screenshots
 
-*(add 2-3 of your best screenshots here — Screening tab, Stock Deep-Dive, Options Overview work well)*
+
 
 ```
 ![Screening](screenshots/screening.png)
