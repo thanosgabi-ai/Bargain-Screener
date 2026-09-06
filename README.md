@@ -15,7 +15,7 @@ A desktop stock screening & analysis application built with **Python** and **PyQ
 ![Stock Deep-Dive](screenshots/Screenshot_2.png)
 ![Biotech Analyzer](screenshots/Screenshot_3.png)
 ![Watchlist](screenshots/Screenshot_4.png)
-```
+
 
 ---
 
